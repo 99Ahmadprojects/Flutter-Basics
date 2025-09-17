@@ -1,6 +1,6 @@
-# test_project
+# Flutter Basics
 
-A new Flutter project.
+Flutter(dart) code for basics like variables,loops, inputs, conditional, lists etc.
 
 ## Getting Started
 
